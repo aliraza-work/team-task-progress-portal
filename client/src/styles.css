@@ -1,0 +1,5 @@
+body{margin:0;font-family:"Trebuchet MS",sans-serif;background:#f2efe8;color:#222}
+.page{max-width:900px;margin:0 auto;padding:2rem 1rem}
+.card{background:#fffdf8;border:1px solid #d8d0c3;border-radius:12px;padding:1rem;margin:1rem 0}
+input,select,textarea,button{width:100%;margin:.35rem 0;padding:.55rem;font:inherit}
+button{background:#314f6d;color:#fff;border:0}
